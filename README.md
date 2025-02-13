@@ -49,6 +49,11 @@ To add custom flowers:
 
 Below the templates, you will find **detailed descriptions** of all parameters used in **single** and **double** flower definitions. Be sure to read through them to understand how to configure your flowers properly.  
 
+## 📖 About petals & seeds
+
+They have NBT tags that have id of block that they were picked from(Use that for crafts not just flower_picking:type_1_petal or something like this as it will just be for all flower petals that have type 1 petal in them)
+As also color NBT and other stuff
+
 ## 💬 Need Help?  
 
 If you have any questions or encounter issues, feel free to join my discord server!
