@@ -1,0 +1,52 @@
+{
+   "Double Flower": false,
+   "Flower ID or tag": "minecraft:moss_carpet",
+   "Flower click action": 1,
+   "Attack on trying without shear item": false,
+   "Shear Item ID or tag": "minecraft:shears",
+   
+   "Drop Petal": true,
+   "Drop Seed": true,
+   "Drop It Self": false,
+   "Drop Item": false,
+
+   "Flower replace type": 3,
+   "Replace type": 1,
+   "Different stages with/without shear item": false,
+   "Replace stage(Without scissors)": 1,
+   "Replace stage(With scissors)": 2,
+   "Replace stage": 1,
+   "Replace Block ID(Flower replace type 4)": "minecraft:sand",
+
+   "Flower petal type": 2,
+   "Petal name": "Moss Petal",
+   "Petal red color(RGB value from 0 to 255)": 0,
+   "Petal green color(RGB value from 0 to 255)": 200,
+   "Petal blue color(RGB value from 0 to 255)": 0,
+
+   "Petal Random Drop Number": false,
+   "Fixed Petal Drop Count": 1,
+   "Min Petal Drop Count": 1,
+   "Max Petal Drop Count": 10,
+
+   "Flower seed type": 1,
+   "Seed name": "Moss seed",
+   "Seed placable on block ID or block tag": "minecraft:grass_block",
+   "Seed Placing Type": 1,
+   "Seed block set(17 Seed Placing type)": "minecraft:green_wool",
+   "Seed Planting Stage": 1,
+   "Seed red color(RGB value from 0 to 255)": 0,
+   "Seed green color(RGB value from 0 to 255)": 120,
+   "Seed blue color(RGB value from 0 to 255)": 0,
+
+   "Seed Random Drop Number": false,
+   "Fixed Seed Drop Count": 1,
+   "Min Seed Drop Count": 1,
+   "Max Seed Drop Count": 10,
+
+   "Drop Item Random Drop Number": false,
+   "Fixed Drop Count": 1,
+   "Min Drop Count": 1,
+   "Max Drop Count": 10,
+   "Drop Item ID": "minecraft:sweet_berries"
+}
